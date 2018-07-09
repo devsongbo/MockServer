@@ -69,3 +69,10 @@ circle_banner_list = {
   "value" : 22224,
   "code" : 200
 }
+
+jsondata = {
+  "code":20,
+  "value" : "sss"
+
+
+}
